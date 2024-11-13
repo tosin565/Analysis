@@ -16,6 +16,7 @@ Note: For this question, assume that Southeast Asia comprises Cambodia, Indonesi
 - Who are the most valuable customers and what do they purchase?
 - Percentage of Sales Category
 - Total Revenue
+- Sales Person contribution to Sales by Total Sales & Percentage
 - Total product sold
 - Total Order
 - Daily Trend
