@@ -1,6 +1,6 @@
 # Global Super Store Sales Analysis (Using Power Query, Data Modeling, SQL, DAX and Power Bi)
 ## Project Overview
-This project aims to provide insight into the sales performance of a bakery company for a year. By analyzing various aspect of the sales data. I identify trends, pattern, KPI requirement and gain deeper understanding of the bakery performance.
+This project aims to provide insight into the sales performance of a bakery company for a year. By analyzing various aspect of the sales data. I identify trends, pattern, KPI requirement and gain deeper understanding of the sales performance.
 ## Problem statement
 - What are the three countries that generated the highest total profit for Global Superstore in 2014?
 - For each of these three countries, find the three products with the highest total profit.
